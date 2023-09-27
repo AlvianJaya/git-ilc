@@ -1,0 +1,19 @@
+body{
+    height: 300px;
+    width: 300px;
+
+   
+}
+.container {
+    background-color: grey;
+    width: 300%;
+    height: 100%;
+    background-image: right;
+}
+.container2{
+   justify-content: center;
+    background-color:blue;
+    width: 300%;
+    height: 250px;
+    
+}
